@@ -1,0 +1,27 @@
+﻿@model IEnumerable<WebDT.Models.EF.Menu>
+    @{ 
+        var lstCategory = ViewBag.Category as List<WebDT.Models.EF.Category>;
+    }
+<ul class="nav navbar-nav">
+    <li>@Html.ActionLink("Trang chủ", "Index", "Default")</li>
+
+
+    @foreach (var i in Model)
+    {
+        <li>
+                <a href="@ViewBag.meta/@i.meta/" style="font-weight: bold">@i.name</a>
+                @if (i.name == "Hãng")
+                {
+                    
+                     <ul>
+                         @foreach(var item in lstCategory)
+                         {
+                             <li><a href="/loc-san-pham?category=@item.id">@item.name</a></li>
+                         }
+                         
+                     </ul>
+                }
+        </li>
+    }
+</ul>
+

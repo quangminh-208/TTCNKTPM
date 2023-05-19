@@ -1,0 +1,9 @@
+﻿@model IEnumerable<WebDT.Models.EF.Category>
+
+
+@foreach (var i in Model)
+{
+
+    <li><a href="/@ViewBag.meta/@i.meta">@i.name</a></li>
+}
+

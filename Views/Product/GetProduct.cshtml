@@ -1,0 +1,50 @@
+﻿
+
+@using PagedList.Mvc;
+@model PagedList.IPagedList<WebDT.Models.EF.Product> 
+
+<div class="single-product-area" style="padding:8px">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-shop-product">
+                        <div class="product-upper">
+                            <img id="hinhanh" src="~/Content/img/@item.img" alt="">
+                        </div>
+                        <h2 style="font-size:16px"><a href="/san-pham/@item.meta/@item.id">@item.name</a></h2>
+
+                        @if (item.newprice != null)
+
+                        {
+                            <div class="product-carousel-price">
+                                <ins>@string.Format("{0:0,0đ}", item.newprice)</ins>
+                                <del>@string.Format("{0:0,0đ}", item.price)</del>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="product-carousel-price">
+                                <ins>@string.Format("{0:0,0đ}", item.price)</ins>
+                            </div>
+                        }
+
+                        <div class="product-option-shop">
+                            <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="70" rel="nofollow" href="/them-gio-hang?productId=@item.id&quantity=1">Thêm vào Giỏ</a>
+                        </div>
+                        <!--gio hang-->
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="product-bit-title text-center">
+            @Html.PagedListPager(Model, page => Url.Action("GetProduct", "Product", new { page = page }))
+        </div>
+       
+    </div>
+</div>
+
+
+

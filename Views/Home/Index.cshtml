@@ -1,0 +1,90 @@
+﻿
+@using PagedList.Mvc;
+@model PagedList.IPagedList<WebDT.Models.EF.Product>
+    @{
+        ViewBag.Title = "Cửa hàng";
+        Layout = "~/Views/Shared/_MyLayout.cshtml";
+        var newProduct = ViewBag.feature as IEnumerable<WebDT.Models.EF.Product>;
+    }
+    <div class="slider-area">
+        <!-- Slider -->
+        @{Html.RenderAction("getHinhChieu", "Default");}
+        <!-- ./Slider -->
+    </div>
+
+
+    <div class="taskSearch">
+        <h2> Tìm kiếm sản phẩm</h2>
+
+        <div class="container">
+            <div class="row">
+                <div class="manuwrap ">
+                    <div class="manunew">
+                        <input type="hidden" id="menuhang" value="0">
+                        <a href="/loc-san-pham?category=1">
+                            <img src="~/Content/img/iPhone-(Apple)42-b_16.jpg">
+                        </a>
+                        <a href="/loc-san-pham?category=2">
+                            <img src="~/Content/img/Samsung42-b_25.jpg">
+                        </a>
+                        <a href="/loc-san-pham?category=3">
+                            <img src="~/Content/img/OPPO42-b_23.jpg">
+                        </a>
+                        <a href="/loc-san-pham?category=4">
+                            <img src="~/Content/img/Nokia42-b_21.jpg">
+                        </a>
+                    </div>
+                    <div class="clr"></div>
+                </div>
+            </div>
+            <div class="row">
+                <ul class="filter">
+                    <li class="title">
+                        <a href="javascript:;">Chọn mức giá:</a>
+                    </li>
+                    <li class="frange">
+                        <a href="/loc-san-pham?toprice=0&fromprice=2">
+                            Dưới 2 triệu
+                        </a>
+                        <a href="/loc-san-pham?toprice=2&fromprice=4">
+                            Từ 2 - 4 triệu
+                        </a>
+                        <a href="/loc-san-pham?toprice=4&fromprice=7">
+                            Từ 4 - 7 triệu
+                        </a>
+                        <a href="/loc-san-pham?toprice=7&fromprice=13">
+                            Từ 7 - 13 triệu
+                        </a>
+                        <a href="/loc-san-pham?toprice=13&fromprice=1300">
+                            Trên 13 triệu
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    @{Html.RenderAction("newProduct", "Home");}
+
+    <!--Xem nhanh -->
+    @{Html.RenderAction("getXemNhanhSP", "Default");}
+
+
+
+    <!--Các Sản khuyến mãi -->
+    @{ Html.RenderAction("getThuongHieu", "Default");}
+    <div class="product-widget-area">
+        <div class="zigzag-bottom"></div>
+        <div class="container">
+            <div class="row">
+                <!--    -->
+
+                @{ Html.RenderAction("getSPMoi", "Default");}
+                @{ Html.RenderAction("Index", "SanPhamBanChayNhat");}
+                @{ Html.RenderAction("getKhuyenMai", "Default");}
+            </div>
+        </div>
+    </div>
+

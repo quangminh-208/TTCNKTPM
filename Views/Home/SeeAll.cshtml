@@ -1,0 +1,71 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<WebDT.Models.EF.Product>
+    @{
+        ViewBag.Title = ViewBag.Alert;
+        Layout = "~/Views/Shared/_MyLayout.cshtml";
+        var meta = "";
+        if(ViewBag.Alert == "Sản phẩm mới")
+        {
+            meta = "san-pham-moi";
+        }
+        else
+        {
+            meta = "san-pham-ban-chay";
+        }
+    }
+
+        <div class="product-big-title-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="product-bit-title text-center">
+                            <h2><b>@ViewBag.Alert</b></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-lg-12">
+                <div class="single-product-area">
+                    <div class="zigzag-bottom"></div>
+                    <div class="container">
+                        <div class="row">
+                            @foreach (var item in Model)
+                            {
+                                //1 sản phaẩm
+                                <div class="col-md-3 col-sm-6" style="max-height: 400px;">
+                                    <div class="single-shop-product">
+                                        <div class="product-upper">
+                                            <img id="hinhanh" src="~/Content/img/@item.img" alt="">
+                                        </div>
+                                        <h2><a href="/san-pham/@item.meta/@item.id">@item.name</a></h2>
+
+                                        <div class="product-carousel-price">
+                                            <ins> @string.Format("{0:0,0đ}", item.newprice) </ins>
+                                            <del>@string.Format("{0:0,0đ}", item.price)</del>
+                                        </div>
+
+                                        <div class="product-option-shop">
+                                            <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="70" rel="nofollow" href="/them-gio-hang?productId=@item.id&quantity=1">Thêm vào Giỏ</a>
+                                        </div>
+                                        <!--gio hang-->
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div class="product-bit-title text-center">
+                            @Html.PagedListPager(Model, page => Url.Action("SeeAll", "Home", new { filter = meta,  page = page, pagesize = Model.PageSize }))
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+   
+
+
+
+
+

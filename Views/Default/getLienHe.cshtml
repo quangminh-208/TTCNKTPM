@@ -1,0 +1,53 @@
+﻿@model IEnumerable< WebDT.Models.EF.Contact>
+<div class="container">
+    <div class="singel_right">
+        <div class="col-md-8">
+            <div class="contact-form">
+                <form method="post" action="contact-post.html">
+                    <p class="comment-form-author">
+                        <label for="author">Họ & Tên:</label>
+                        <input type="text" class="textbox" value="Tên ghi ở đây..." onfocus="this.value = '';" onblur="if (this.value == '') { this.value = 'Tên ghi ở đây...'; }">
+                    </p>
+                    <p class="comment-form-author">
+                        <label for="author">Email:</label>
+                        <input type="text" class="textbox" value="Email ghi ở đây..." onfocus="this.value = '';" onblur="if (this.value == '') { this.value = 'Email ghi ở đây...'; }">
+                    </p>
+                    <p class="comment-form-author">
+                        <label for="author">Lời nhắn:</label>
+                        <textarea value="" onfocus="this.value = '';" onblur="if (this.value == '') { this.value = 'Lời nhắn ghi ở đây...'; }">Lời nhắn ghi ở đây...</textarea>
+                    </p>
+                    <input name="submit" type="submit" id="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+        <div class="col-md-4 contact_right">
+            <h3>Địa chỉ cửa hàng</h3>
+            <div class="address">
+                <i class="pin_icon"></i>
+                <div class="contact_address">
+                    475A, Điện Biên Phủ, P. 25, Q. Bình Thạnh, Tp. Hồ Chí Minh
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="address">
+                <i class="phone"></i>
+                <div class="contact_address">
+                    0366-789-999
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="address">
+                <i class="mail"></i>
+                <div class="contact_email">
+                    <a href="malito:mail@demolink.org">heaven.shop@gmail.com</a>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.125710689305!2d106.71231221431037!3d10.801682692304382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528a5a7e26497%3A0xd6b32389e19641de!2zNDc1IMSQaeG7h24gQmnDqm4gUGjhu6csIFBoxrDhu51uZyAyNSwgQsOsbmggVGjhuqFuaCwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1522559511132" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+</div>
+

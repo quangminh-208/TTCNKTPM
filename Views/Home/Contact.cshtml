@@ -1,0 +1,114 @@
+﻿
+@model WebDT.Models.EF.Contact
+
+@{
+    ViewBag.Title = "Liên hệ";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+<br />
+<div class="container" id="divlienhe">
+    <h1 style="padding: 10px 35%">Thông tin liên hệ</h1>
+    <div class="singel_right" style="padding: 10px 10px">
+        <div class="col-md-8">
+
+
+
+            <div class="contact-form">
+                @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { id = "frmValidate" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <form method="post" action="contact-post.html" id="lienhe">
+
+                        <p class="comment-form-author">
+                            <label for="author" id="LienheLabel">Tên:</label>
+                            <input name="Fullname" type="text" class="form-control" style="width: 95%;resize: none" placeholder="Tên người gửi">
+                        </p>
+                        <p class="comment-form-author">
+                            <label for="author" id="LienheLabel">E-Mail:</label>
+                            <input name="Email" type="text" class="form-control" style="width: 95%;resize: none" placeholder="Tên@gmail.com">
+                        </p>
+                        <p class="comment-form-author">
+                            <label for="author" id="LienheLabel">Yêu cầu:</label>
+                            <textarea name="Descriptions" value="" class="form-control" style="height: 100px; width: 95%; resize: none" placeholder="Yêu cầu của bạn..."></textarea>
+                        </p>
+                        <input type="submit" value="Gửi">
+
+                    </form>
+                }
+            </div>
+
+
+
+        </div>
+        <div class="col-md-4 contact_right">
+            <h3 id="h3d">Địa chỉ cửa hàng</h3>
+            <div class="address" style="padding: 8px 0px">
+                <i class="pin_icon" id="idpin"></i>
+                <div class="contact_address" id="ten1">
+                    475A, Điện Biên Phủ, P. 25, Q. Bình Thạnh, Tp. Hồ Chí Minh
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="address" style="padding: 8px 0px">
+                <i class="phone" id="ten2"></i>
+                <div class="contact_address" id="ten3">
+                    0366-789-999
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="address" style="padding: 8px 0px">
+                <i class="mail" id="ten5"></i>
+                <div class="contact_email" id="ten6">
+                    <a href="malito:mail@demolink.org" id="ten7">heaven.shop@gmail.com</a>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="map" style="margin-top: 4em">
+        <iframe id="zx" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.125710689305!2d106.71231221431037!3d10.801682692304382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528a5a7e26497%3A0xd6b32389e19641de!2zNDc1IMSQaeG7h24gQmnDqm4gUGjhu6csIFBoxrDhu51uZyAyNSwgQsOsbmggVGjhuqFuaCwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1522559511132" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+</div>
+
+@section jsFooter{
+
+    <script src="/Scripts/Controller/CartController.js"></script>
+
+
+    <script>
+            $(document).ready(function () {
+
+                jQuery.validator.addMethod("email_regex", function (value, element) {
+                    if (/^[a-z][a-z0-9_\.]{5,32}@@[a-z0-9]{2,}(\.[a-z0-9]{2,4}){1,2}$/g.test(value)) {
+                        return true;
+                    } else {
+                        return false;
+                    };
+                }, "Invalid email");
+                //Khi bàn phím được nhấn và thả ra thì sẽ chạy phương thức này
+                $("#frmValidate").validate({
+                    rules: {
+                        Fullname: "required",
+                        Descriptions: "required",
+                        Email: {
+                            required: true,
+                            email_regex: true
+                        }
+                    },
+                    messages: {
+                        Fullname: "Vui lòng nhập họ và tên",
+                        Descriptions: "Vui lòng nhập nội dung đơn hàng",
+                        Email: {
+                            required: "Vui lòng nhập email",
+                            email_regex: "Email không hợp lệ"
+                        }
+                    }
+                });
+            });
+    </script>
+}
+
+
+
+

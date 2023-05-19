@@ -1,0 +1,25 @@
+﻿@model IEnumerable<WebDT.Models.EF.News>
+
+<div class="product-widget-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <h2 class="section-title">Tin tức & Sự kiện</h2>
+            <div class="single-product-widget">
+                @foreach (var i in Model)
+                {
+                    <div class="single-wid-product">
+
+                        <a href="#"><img src="~/Content/img/@i.img" alt="" class="product-thumb"></a>
+                        <div> <h2><a href="#"><b>@i.name</b></a></h2></div>
+                        <div> 
+                            @Html.Raw(i.detail)
+                        </div>
+
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

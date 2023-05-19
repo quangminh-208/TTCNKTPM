@@ -1,0 +1,159 @@
+﻿@model List<WebDT.Models.CartItem>
+    @{
+        ViewBag.Title = "Thanh toán";
+        Layout = "~/Views/Shared/_MyLayout.cshtml";
+        long sum = 0;
+        //var user = (WebDT.Models.EF.User)Session["user"];
+    }
+
+    <div class="container col-sm-12" style="padding: 20px">
+
+        <div class="col-sm-6">
+            <h3 class="cat-w3l">Sản phẩm của bạn</h3>
+            <div class="agile-form col-sm-12">
+                <div class="clear"></div>
+                @foreach (var item in Model)
+                {
+                    <div class="col-sm-12" style="/*margin: 30px;*/ border-bottom: 1px solid #dddd; padding: 25px;
+">
+                        <div class="images" style="float: left">
+                            <img src="~/Content/img/@item.Product.img" style="height:180px" />
+                        </div>
+                        <div class="Book-Name" data-id="@item.Product.id">
+                            <h3>@item.Product.name</h3>
+                        </div>
+
+                        <div style="font-size: 18px; margin-left: 120px; display: flex;">
+                            <h5 style="padding-right: 10px;">
+                                Giá:
+                                <span style="color:blue">
+                                    @if (item.Product.newprice != null)
+                                    {
+                                        @item.Product.newprice.GetValueOrDefault(0).ToString("N0");
+                                        sum += (long)(item.Product.newprice.GetValueOrDefault(0) * item.Quantity);
+                                    }
+                                    else
+                                    {
+                                        @item.Product.price.GetValueOrDefault(0).ToString("N0");
+                                        sum += (long)(item.Product.price.GetValueOrDefault(0) * item.Quantity);
+                                    }
+                                    ₫
+                                </span>
+                            </h5>
+                        </div>
+                        <div style="font-size: 18px; margin-left: 120px; display: flex;">
+                            <h5>Số lượng:  <span style="font-weight: bold">@item.Quantity</span></h5>
+                        </div>
+                        <div style="font-size: 18px; margin-left: 120px;">
+
+                        </div>
+                    </div>
+
+                }
+
+                <div class="clear"> </div>
+            </div>
+
+            <div class="col-lg-6"></div>
+            <div class="col-lg-5">
+                <span style="font-size: 20px;">Tổng tiền:</span> <span style="color: red; font-size: 20px; float: right">@sum.ToString("N0") ₫</span>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+
+            <div class="box-border" id="formthanhtoan">
+
+                @using (Html.BeginForm("ThanhToan", "GioHang", FormMethod.Post, new { id = "frmValidate" }))
+
+                {
+                    <h2 class="page-heading">
+                        <span class="page-heading-title2" style="padding:2px 26%">Chi tiết Đặt hàng</span>
+                    </h2>
+                    <input type="hidden" name="totalPrice" value="@sum" />
+                    <div class="form-group">
+                        <label>Người nhận</label>
+                        <input name="CustomerName" class="form-control" value="@Session["ten"]" />
+                    </div>
+                    <div class="form-group">
+                        <label>Điện thoại</label>
+                        <input name="CustomerPhone" class="form-control" value="@Session["phone"]" />
+                    </div>
+                    <div class="form-group">
+                        <label>Địa chỉ</label>
+                        <input name="CustomerAddress" class="form-control" value="@Session["DiaChi"]" />
+                    </div>
+                    <div class="form-group">
+                        <label>E-Mail</label>
+                        <input name="CustomerEmail" class="form-control" value="@Session["Email"]" />
+                    </div>
+                    <div class="form-group">
+                        <label>Lời nhắn:</label>
+                        <textarea name="Descriptions" id="loinhan" class="form-control" value="" onfocus="this.value = '';" onblur="if (this.value == '') { this.value = 'Lời nhắn ghi ở đây...'; }"></textarea>
+                    </div>
+
+                    <button type="submit" class="button pull-right" style="margin-right: 25px">TIến hành đặt hàng</button>
+
+                }
+            </div>
+        </div>
+
+    </div>
+
+    @section jsFooter{
+
+        <script src="/Scripts/Controller/CartController.js"></script>
+
+
+        <script>
+            $(document).ready(function () {
+
+                // add the rule here
+
+                jQuery.validator.addMethod("phonenu", function (value, element) {
+                    if (/^(09[0-9]|07[0|6|7|8|9]|03[2-9]|08[1-5])+([0-9]{7})\b/g.test(value)) {
+                        return true;
+                    } else {
+                        return false;
+                    };
+                }, "Invalid phone number");
+
+                jQuery.validator.addMethod("email_regex", function (value, element) {
+                    if (/^[a-z][a-z0-9_\.]{5,32}@@[a-z0-9]{2,}(\.[a-z0-9]{2,4}){1,2}$/g.test(value)) {
+                        return true;
+                    } else {
+                        return false;
+                    };
+                }, "Invalid email");
+                //Khi bàn phím được nhấn và thả ra thì sẽ chạy phương thức này
+                $("#frmValidate").validate({
+                    rules: {
+                        CustomerName: "required",
+                        CustomerAddress: "required",
+                        Descriptions: "required",
+                        CustomerEmail: {
+                            required: true,
+                            email_regex: true
+                        },
+                        CustomerPhone: {
+                            required: true,
+                            phonenu: true
+                        }
+                    },
+                    messages: {
+                        CustomerName: "Vui lòng nhập họ và tên",
+                        CustomerAddress: "Vui lòng nhập địa chỉ",
+                        Descriptions: "Vui lòng nhập nội dung đơn hàng",
+                        CustomerEmail: {
+                            required: "Vui lòng nhập email",
+                            email_regex: "Email không hợp lệ"
+                        },
+                        CustomerPhone: {
+                            required: "Vui lòng nhập số điện thoại",
+                            phonenu: "Số điện thoại không hợp lệ"
+                        }
+                    }
+                });
+            });
+        </script>
+    }

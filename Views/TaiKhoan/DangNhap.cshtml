@@ -1,0 +1,55 @@
+﻿@model WebDT.Models.ModelLogin
+
+@{
+    ViewBag.Title = "Đăng nhập";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="content">
+    @using (Html.BeginForm("DangNhap", "TaiKhoan", FormMethod.Post))
+            {
+        @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4 style="margin-top: 20px; margin-left:45%"> <b>Đăng nhập</b> </h4>
+        <hr />
+        <div class="form-group">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success"><p style="margin-left: 45%">@TempData["Success"]</p></div>
+            }
+        </div>
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group" style="margin-left: 27%">
+            @Html.LabelFor(model => model.UserName, new { @class = "control-label col-md-2" })
+            <div class="col-md-6" style="width: 70%">
+                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-left: 27%">
+            @Html.LabelFor(model => model.Password, new { @class = "control-label col-md-2" })
+            <div class="col-md-6" style="width: 70%">
+                @Html.PasswordFor(model => model.Password, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="margin-left: 27%">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Đăng nhập" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+    }
+    <div class="form-group" style="margin-left: 27%">
+        <div class="col-md-offset-2 col-md-10">
+            <fb:login-button scope="public_profile,email"
+                             onlogin="checkLoginState();">
+            </fb:login-button>
+        </div>
+    </div>
+
+</div>

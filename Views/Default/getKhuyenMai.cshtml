@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebDT.Models.EF.Product>
+
+        <div class="col-md-4">
+            <div class="single-product-widget">
+                <h2 class="product-wid-title"> Sản phẩm Giảm giá</h2>
+                <a href="/cua-hang-khuyen-mai" class="wid-view-more">Xem tất cả</a>
+               
+                    @foreach (var i in Model.Take(5) )
+                    {
+                        if (i.newprice != null)
+                        {
+                                    <div class="single-wid-product">
+                                        <a href="/san-pham/@i.meta/@i.id"><img src="~/Content/img/@i.img" alt="" class="product-thumb"></a>
+                                        <h2><a  href="/san-pham/@i.meta/@i.id">@i.name</a></h2>
+                                        <div class="product-wid-rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <div class="product-wid-price">
+                                            @if (i.newprice != null)
+                                            {   <ins> @string.Format("{0:0,0đ}", i.newprice) </ins>
+                                            <del>@string.Format("{0:0,0đ}", i.price)</del>}
+                                        </div>
+                                    </div>
+                        }
+                    }
+            </div>
+        </div>
+
+

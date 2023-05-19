@@ -1,0 +1,15 @@
+﻿@model IEnumerable < WebDT.Models.EF.Category>
+
+<div class="col-md-3 col-sm-6">
+    <div class="footer-menu">
+        <h2 class="footer-wid-title">Loại Máy</h2>
+        <ul>
+            @foreach (var i in Model)
+            {
+                <li><a href="/@ViewBag.meta/@i.meta">@i.name</a></li>
+            }
+
+        </ul>
+    </div>
+</div>
+

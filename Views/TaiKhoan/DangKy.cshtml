@@ -1,0 +1,87 @@
+﻿@model WebDT.Models.RegisterModel
+@{
+    ViewBag.Title = "Đăng ký";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="content">
+    @using (Html.BeginForm("DangKy", "TaiKhoan", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            
+            <h4 style="margin-top: 20px; margin-left:45%"> <b>Đăng ký thành viên</b> </h4>
+            <hr />
+            <div class="form-group" >
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @if (ViewBag.Success != null)
+                {
+                    <div class="alert alert-success"><p style="margin-left: 45%">@ViewBag.Success</p></div>
+                }
+            </div>
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.username, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.username, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.password, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(model => model.password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.confirmpassword, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(model => model.confirmpassword, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.confirmpassword, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.address, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.address, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.address, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.email, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                @Html.LabelFor(model => model.phone, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.phone, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.phone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-left:25%">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Đăng ký" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

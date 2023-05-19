@@ -1,0 +1,27 @@
+﻿@model IEnumerable<WebDT.Models.EF.Product>
+
+@foreach (var i in Model.Take(5))
+{
+    <div class="thubmnail-recent">
+        <img src="~/Content/img/@i.img" class="recent-thumb" alt="">
+        <h2><a href="/san-pham/@i.meta/@i.id">@i.name</a></h2>
+        <div class="product-sidebar-price">
+            @if (i.newprice != null)
+
+            {
+
+                <ins>@string.Format("{0:0,0đ}", i.newprice)</ins>
+                    <del>@string.Format("{0:0,0đ}", i.price)</del>
+
+            }
+            else
+            {
+
+                <ins>@string.Format("{0:0,0đ}", i.price)</ins>
+
+            }
+
+
+        </div>
+    </div>
+}
