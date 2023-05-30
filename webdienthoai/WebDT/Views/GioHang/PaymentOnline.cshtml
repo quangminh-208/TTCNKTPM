@@ -1,0 +1,153 @@
+﻿@*@model WebDT.Models.PayPalModel*@
+@{
+    ViewBag.Title = "Thanh toán";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    var pay = (WebDT.Models.product)ViewBag.PaymentOnline;
+}
+
+@Styles.Render("~/css/detail")
+@Scripts.Render("~/js/detail")
+
+@*<form id="hiddenform" action=@Model.actionURL>
+    @Html.HiddenFor(model => model.cmd)
+    @Html.HiddenFor(model => model.business)
+    @Html.HiddenFor(model => model.no_shipping)
+    @Html.HiddenFor(model => model.@return)
+    @Html.HiddenFor(model => model.cancel_return)
+    @Html.HiddenFor(model => model.notify_url)
+    @Html.HiddenFor(model => model.currency_code)
+    @Html.HiddenFor(model => model.item_name)
+    @Html.HiddenFor(model => model.item_quantity)
+    @Html.HiddenFor(model => model.amount)
+</form>*@  
+
+<div class="single-product-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-8">
+                <div class="product-content-right">
+                    <div class="product-breadcroumb">
+                        @Html.ActionLink("Trang chủ", "Index", "Default")
+                        <a href="">@pay.name</a>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="product-images">
+                                <div class="product-main-img">
+                                    <img src="~/Content/img/@pay.img" alt="">
+                                </div>
+
+                                <div class="product-gallery">
+                                    <img src="img/product-thumb-1.jpg" alt="">
+                                    <img src="img/product-thumb-2.jpg" alt="">
+                                    <img src="img/product-thumb-3.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="product-inner">
+                                <h2 class="product-name">@pay.name</h2>
+                                <div class="product-inner-price">
+                                    @if (pay.newprice != null)
+                                    { <ins>@string.Format("{0:0,0 VNĐ}", pay.newprice)</ins>
+                                    <del>@string.Format("{0:0,0 VNĐ}", pay.price)</del> }
+                                    else
+                                    {
+                                        <ins>@string.Format("{0:0,0 VNĐ}", pay.price)</ins>
+                                    }
+                                </div>
+
+                                <div class="product-inner-category" style="margin-top:15px">
+                                    <p>Thể loại: <a href="#">@pay.name</a></p>
+                                </div>
+
+                                <div role="tabpanel" style="width: 130%;">
+                                    <ul class="product-tab" role="tablist">
+                                        <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Thanh toán khi nhận hàng</a></li>
+                                        <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Thanh toán online</a></li>
+                                    </ul>
+                                    <div class="tab-content">
+                                        <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                            @using (Html.BeginForm("ThanhToan", "GioHang", FormMethod.Post))
+
+                                            {
+                                                <h2 class="page-heading">
+                                                    <span class="page-heading-title2" style="padding:2px 26%">Chi tiết đặt hàng</span>
+                                                </h2>
+                                                <input type="hidden" name="productId" value="@pay.id" />
+                                                <input type="hidden" name="totalPrice" value="@pay.price" />
+                                                <div class="form-group">
+                                                    <label>Người nhận</label>
+                                                    <input name="tenkhachhang" class="form-control" value="@Session["ten"].ToString()" readonly/>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>Điện thoại</label>
+                                                    <input name="sdt" class="form-control" />
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>Địa chỉ</label>
+                                                    <input name="diachi" class="form-control" />
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>E-Mail</label>
+                                                    <input name="email" class="form-control" />
+                                                </div>
+                                                <div class="form-group">
+                                                    <label>Lời nhắn:</label>
+                                                    <textarea name="noidung" id="loinhan" class="form-control" value="" onfocus="this.value = '';" onblur="if (this.value == '') { this.value = 'Lời nhắn ghi ở đây...'; }"></textarea>
+                                                </div>
+
+                                                <button type="submit" class="button pull-right" style="margin-right: 25px">Gửi đơn hàng</button>
+                                            }
+                                        </div>
+                                        <div role="tabpanel" class="tab-pane fade" id="profile">
+                                            <div class="submit-review">
+                                                @using (Html.BeginForm("ValidateCommand", "GioHang", FormMethod.Post))
+                                                {
+                                                    <input type="hidden" name="product" value="@pay.name"/>
+                                                    <input type="hidden" name="totalPrice" value="@pay.price" />
+                                                    <input type="hidden" name="quantity" value="1" />
+                                                    <p><label for="name">Họ Tên</label> <input name="name" type="text" value="@Session["ten"].ToString()" readonly></p>
+                                                    <p><label for="phone">Số điện thoại</label> <input name="phone" type="text"></p>
+                                                    <p><label for="adress">Địa chỉ</label> <input name="adress" type="text"></p>
+                                                    <div class="rating-chooser">
+                                                        <input type="submit" name="btnConfirm" class="btn btn-primary btn-block" value="Thanh toán online"/>
+                                                    </div>
+                                                }
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="product-images">
+                            <div class="product-main-img">
+                                <img src="img/product-2.jpg" alt="">
+                            </div>
+
+                            <div class="product-gallery">
+                                <img src="img/product-thumb-1.jpg" alt="">
+                                <img src="img/product-thumb-2.jpg" alt="">
+                                <img src="img/product-thumb-3.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

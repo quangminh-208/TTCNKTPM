@@ -1,0 +1,68 @@
+﻿@model WebDT.Models.EF.News
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/admin/Views/Shared/_Mylayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-red">
+            <div class="panel-heading">
+                Xoá
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div>
+                    <h3 style="margin-left:10%">Bạn có thật sự muốn xoá Tin tức - sự kiện này?</h3>
+                    <hr />
+                    <dl class="dl-horizontal">
+                        <dt>
+                            @Html.DisplayName("Tên:")
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.name)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayName("Hình ảnh:")
+                        </dt>
+
+                        <dd>
+                            <img style="width:30%" src="~/Content/img/@Model.img" />
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayName("Nội dung:")
+                        </dt>
+
+                        <dd>
+                            @Html.Raw(Model.detail)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayName("Ngày tạo")
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.datebegin)
+                        </dd>
+
+                    </dl>
+
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-actions no-color">
+                            <input type="submit" value="Xóa" class="btn btn-default" /> |
+                            @Html.ActionLink("Quay lại danh sách", "Index")
+                        </div>
+                    }
+                </div>
+                </div>
+</div>
+</div>
+</div>

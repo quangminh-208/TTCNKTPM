@@ -1,0 +1,70 @@
+﻿@model WebDT.Models.EF.Contact
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/admin/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-red">
+
+            <div class="panel-heading">
+                Thông Tin
+            </div>
+
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Details", "DangNhaps", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div>
+                        <h4 style="margin-left:35%">THÔNG TIN CHI TIẾT YÊU CẦU KHÁCH HÀNG</h4>
+                        <hr />
+                        <dl class="dl-horizontal">
+                            
+
+                            <dt>
+                                @Html.DisplayName("Họ và Tên:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Fullname)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Email:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Email)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Nội dung:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.Descriptions)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Ngày yêu cầu:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.CreatedDate)
+                            </dd>
+
+                        </dl>
+                    </div>
+                    <p>
+                       
+                        @Html.ActionLink("Quay lại danh sách", "Index")
+                    </p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

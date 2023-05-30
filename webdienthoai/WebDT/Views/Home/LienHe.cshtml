@@ -1,0 +1,17 @@
+﻿@model WebDT.Models.LienHe
+
+@{
+    ViewBag.Title = "LienHe";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+<div class="container">
+    <div class="col-md-12">
+        <a href="#">Trang Chủ </a>
+        <span>/ </span>
+        <span>Liên Hệ</span>
+    </div>
+    <div class="col-lg-12">
+        <h2>Liên Hệ</h2>
+        @{ Html.RenderAction("getLienHe1", "Default");}
+    </div>
+</div>

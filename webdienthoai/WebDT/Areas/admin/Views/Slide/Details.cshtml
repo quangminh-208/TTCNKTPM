@@ -1,0 +1,76 @@
+﻿@model WebDT.Models.HinhChieu
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/admin/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-red">
+
+            <div class="panel-heading">
+                Thông Tin
+            </div>
+
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Details", "Slide", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div>
+                        <h4 style="margin-left:40%">THÔNG TIN CHI TIẾT SLIDE</h4>
+                        <hr />
+                        <dl class="dl-horizontal">
+                            <dt>
+                                @Html.DisplayName("Hình Ảnh:")
+                            </dt>
+
+                            <dd>
+                                <img style="width:50%" src="~/Content/img/@Model.img" />
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Meta:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.meta)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Hide:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.hide)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Order:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.order)
+                            </dd>
+
+                            <dt>
+                                @Html.DisplayName("Ngày:")
+                            </dt>
+
+                            <dd>
+                                @Html.DisplayFor(model => model.datebegin)
+                            </dd>
+
+                        </dl>
+                    </div>
+                    <p>
+                        @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.id }) |
+                        @Html.ActionLink("Quay lại danh sách", "Index")
+                    </p>
+                }
+                </div>
+</div>
+</div>
+</div>

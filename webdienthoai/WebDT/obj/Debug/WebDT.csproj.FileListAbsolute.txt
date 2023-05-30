@@ -1,0 +1,1698 @@
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\ApplicationInsights.config
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\csc.exe
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\vbc.exe
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\WebDT.dll.config
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\WebDT.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\WebDT.pdb
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Antlr3.Runtime.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\EntityFramework.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Newtonsoft.Json.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Owin.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Helpers.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Mvc.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Optimization.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Razor.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.WebPages.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\WebGrease.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Helpers.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Mvc.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Optimization.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.Razor.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.WebPages.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Newtonsoft.Json.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\EntityFramework.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\obj\Debug\WebDT.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\obj\Debug\WebDT.pdb
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\CKFinder.dll
+F:\LapTrinhWeb\KhongTen\WebDT\WebDT\bin\CKFinder.pdb
+G:\web 1\WebDT\WebDT\bin\ApplicationInsights.config
+G:\web 1\WebDT\WebDT\bin\roslyn\csc.exe
+G:\web 1\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\web 1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\web 1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\web 1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\web 1\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\web 1\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\web 1\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+G:\web 1\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+G:\web 1\WebDT\WebDT\bin\roslyn\vbc.exe
+G:\web 1\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+G:\web 1\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+G:\web 1\WebDT\WebDT\bin\WebDT.dll.config
+G:\web 1\WebDT\WebDT\bin\WebDT.dll
+G:\web 1\WebDT\WebDT\bin\WebDT.pdb
+G:\web 1\WebDT\WebDT\bin\Antlr3.Runtime.dll
+G:\web 1\WebDT\WebDT\bin\CKFinder.dll
+G:\web 1\WebDT\WebDT\bin\EntityFramework.dll
+G:\web 1\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+G:\web 1\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+G:\web 1\WebDT\WebDT\bin\Newtonsoft.Json.dll
+G:\web 1\WebDT\WebDT\bin\Owin.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.Helpers.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.Mvc.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.Optimization.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.Razor.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.WebPages.dll
+G:\web 1\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+G:\web 1\WebDT\WebDT\bin\WebGrease.dll
+G:\web 1\WebDT\WebDT\bin\CKFinder.pdb
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.Helpers.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.Mvc.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.Optimization.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.Razor.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.WebPages.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+G:\web 1\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+G:\web 1\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+G:\web 1\WebDT\WebDT\bin\Newtonsoft.Json.xml
+G:\web 1\WebDT\WebDT\bin\EntityFramework.xml
+G:\web 1\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+G:\web 1\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\web 1\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+G:\web 1\WebDT\WebDT\obj\Debug\WebDT.dll
+G:\web 1\WebDT\WebDT\obj\Debug\WebDT.pdb
+C:\Users\PC\Desktop\WebDT\WebDT\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\WebDT\WebDT\bin\WebDT.dll.config
+C:\Users\PC\Desktop\WebDT\WebDT\bin\WebDT.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\WebDT.pdb
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\CKFinder.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\EntityFramework.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Owin.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\WebGrease.dll
+C:\Users\PC\Desktop\WebDT\WebDT\bin\CKFinder.pdb
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\EntityFramework.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\WebDT\WebDT\obj\Debug\WebDT.dll
+C:\Users\PC\Desktop\WebDT\WebDT\obj\Debug\WebDT.pdb
+C:\Users\PC\Desktop\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+F:\WebDT\WebDT\bin\ApplicationInsights.config
+F:\WebDT\WebDT\bin\roslyn\csc.exe
+F:\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+F:\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebDT\WebDT\bin\roslyn\vbc.exe
+F:\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+F:\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+F:\WebDT\WebDT\bin\WebDT.dll.config
+F:\WebDT\WebDT\bin\WebDT.dll
+F:\WebDT\WebDT\bin\WebDT.pdb
+F:\WebDT\WebDT\bin\Antlr3.Runtime.dll
+F:\WebDT\WebDT\bin\CKFinder.dll
+F:\WebDT\WebDT\bin\EntityFramework.dll
+F:\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+F:\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+F:\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+F:\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+F:\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+F:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+F:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+F:\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+F:\WebDT\WebDT\bin\Newtonsoft.Json.dll
+F:\WebDT\WebDT\bin\Owin.dll
+F:\WebDT\WebDT\bin\System.Web.Helpers.dll
+F:\WebDT\WebDT\bin\System.Web.Mvc.dll
+F:\WebDT\WebDT\bin\System.Web.Optimization.dll
+F:\WebDT\WebDT\bin\System.Web.Razor.dll
+F:\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+F:\WebDT\WebDT\bin\System.Web.WebPages.dll
+F:\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+F:\WebDT\WebDT\bin\WebGrease.dll
+F:\WebDT\WebDT\bin\CKFinder.pdb
+F:\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+F:\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+F:\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+F:\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+F:\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebDT\WebDT\bin\System.Web.Helpers.xml
+F:\WebDT\WebDT\bin\System.Web.Mvc.xml
+F:\WebDT\WebDT\bin\System.Web.Optimization.xml
+F:\WebDT\WebDT\bin\System.Web.Razor.xml
+F:\WebDT\WebDT\bin\System.Web.WebPages.xml
+F:\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+F:\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+F:\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+F:\WebDT\WebDT\bin\Newtonsoft.Json.xml
+F:\WebDT\WebDT\bin\EntityFramework.xml
+F:\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+F:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+F:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+F:\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+F:\WebDT\WebDT\obj\Debug\WebDT.dll
+F:\WebDT\WebDT\obj\Debug\WebDT.pdb
+F:\WebDT\WebDT\bin\PagedList.dll
+F:\WebDT\WebDT\bin\PagedList.Mvc.dll
+F:\WebDT\WebDT\bin\PagedList.xml
+F:\WebDT\WebDT\bin\PagedList.Mvc.xml
+E:\WebDT\WebDT\bin\ApplicationInsights.config
+E:\WebDT\WebDT\bin\roslyn\csc.exe
+E:\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebDT\WebDT\bin\roslyn\vbc.exe
+E:\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\WebDT\WebDT\bin\WebDT.dll.config
+E:\WebDT\WebDT\bin\WebDT.dll
+E:\WebDT\WebDT\bin\WebDT.pdb
+E:\WebDT\WebDT\bin\Antlr3.Runtime.dll
+E:\WebDT\WebDT\bin\CKFinder.dll
+E:\WebDT\WebDT\bin\EntityFramework.dll
+E:\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+E:\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+E:\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\WebDT\WebDT\bin\Newtonsoft.Json.dll
+E:\WebDT\WebDT\bin\Owin.dll
+E:\WebDT\WebDT\bin\PagedList.dll
+E:\WebDT\WebDT\bin\PagedList.Mvc.dll
+E:\WebDT\WebDT\bin\System.Web.Helpers.dll
+E:\WebDT\WebDT\bin\System.Web.Mvc.dll
+E:\WebDT\WebDT\bin\System.Web.Optimization.dll
+E:\WebDT\WebDT\bin\System.Web.Razor.dll
+E:\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\WebDT\WebDT\bin\System.Web.WebPages.dll
+E:\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\WebDT\WebDT\bin\WebGrease.dll
+E:\WebDT\WebDT\bin\CKFinder.pdb
+E:\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+E:\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebDT\WebDT\bin\PagedList.xml
+E:\WebDT\WebDT\bin\PagedList.Mvc.xml
+E:\WebDT\WebDT\bin\System.Web.Helpers.xml
+E:\WebDT\WebDT\bin\System.Web.Mvc.xml
+E:\WebDT\WebDT\bin\System.Web.Optimization.xml
+E:\WebDT\WebDT\bin\System.Web.Razor.xml
+E:\WebDT\WebDT\bin\System.Web.WebPages.xml
+E:\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+E:\WebDT\WebDT\bin\Newtonsoft.Json.xml
+E:\WebDT\WebDT\bin\EntityFramework.xml
+E:\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+E:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+E:\WebDT\WebDT\obj\Debug\WebDT.dll
+E:\WebDT\WebDT\obj\Debug\WebDT.pdb
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\ApplicationInsights.config
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\csc.exe
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\vbc.exe
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\WebDT.dll.config
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\WebDT.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\WebDT.pdb
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Antlr3.Runtime.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\CKFinder.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\EntityFramework.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Newtonsoft.Json.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Owin.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\PagedList.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\PagedList.Mvc.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Helpers.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Mvc.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Optimization.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Razor.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.WebPages.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\WebGrease.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\CKFinder.pdb
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\PagedList.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\PagedList.Mvc.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Helpers.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Mvc.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Optimization.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.Razor.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.WebPages.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Newtonsoft.Json.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\EntityFramework.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\obj\Debug\WebDT.dll
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\obj\Debug\WebDT.pdb
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\obj\Debug\WebDT.csprojAssemblyReference.cache
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+E:\DinhDuyLe_1511060534_DoAnCoSo\WebDT\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\ApplicationInsights.config
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\csc.exe
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\vbc.exe
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebDT.dll.config
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebDT.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebDT.pdb
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Antlr3.Runtime.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\CKFinder.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Newtonsoft.Json.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Owin.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.Mvc.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Helpers.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Mvc.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Optimization.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Razor.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebGrease.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\CKFinder.pdb
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.Mvc.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Helpers.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Mvc.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Optimization.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Razor.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Newtonsoft.Json.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\obj\Debug\WebDT.dll
+E:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\obj\Debug\WebDT.pdb
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\ApplicationInsights.config
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\csc.exe
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\vbc.exe
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebDT.dll.config
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebDT.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebDT.pdb
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Antlr3.Runtime.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\CKFinder.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Newtonsoft.Json.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Owin.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.Mvc.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Helpers.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Mvc.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Optimization.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Razor.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\WebGrease.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\CKFinder.pdb
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\PagedList.Mvc.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Helpers.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Mvc.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Optimization.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.Razor.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Newtonsoft.Json.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\obj\Debug\WebDT.dll
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\obj\Debug\WebDT.pdb
+D:\CV\WebDT\WebDT\bin\ApplicationInsights.config
+D:\CV\WebDT\WebDT\bin\roslyn\csc.exe
+D:\CV\WebDT\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CV\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CV\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CV\WebDT\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CV\WebDT\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CV\WebDT\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CV\WebDT\WebDT\bin\roslyn\System.Collections.Immutable.dll
+D:\CV\WebDT\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\CV\WebDT\WebDT\bin\roslyn\vbc.exe
+D:\CV\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe
+D:\CV\WebDT\WebDT\bin\roslyn\VBCSCompiler.exe.config
+D:\CV\WebDT\WebDT\bin\WebDT.dll.config
+D:\CV\WebDT\WebDT\bin\WebDT.dll
+D:\CV\WebDT\WebDT\bin\WebDT.pdb
+D:\CV\WebDT\WebDT\bin\Antlr3.Runtime.dll
+D:\CV\WebDT\WebDT\bin\CKFinder.dll
+D:\CV\WebDT\WebDT\bin\EntityFramework.dll
+D:\CV\WebDT\WebDT\bin\EntityFramework.SqlServer.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.Web.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.ApplicationInsights.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CV\WebDT\WebDT\bin\Microsoft.Web.Infrastructure.dll
+D:\CV\WebDT\WebDT\bin\Newtonsoft.Json.dll
+D:\CV\WebDT\WebDT\bin\Owin.dll
+D:\CV\WebDT\WebDT\bin\PagedList.dll
+D:\CV\WebDT\WebDT\bin\PagedList.Mvc.dll
+D:\CV\WebDT\WebDT\bin\System.Web.Helpers.dll
+D:\CV\WebDT\WebDT\bin\System.Web.Mvc.dll
+D:\CV\WebDT\WebDT\bin\System.Web.Optimization.dll
+D:\CV\WebDT\WebDT\bin\System.Web.Razor.dll
+D:\CV\WebDT\WebDT\bin\System.Web.WebPages.Deployment.dll
+D:\CV\WebDT\WebDT\bin\System.Web.WebPages.dll
+D:\CV\WebDT\WebDT\bin\System.Web.WebPages.Razor.dll
+D:\CV\WebDT\WebDT\bin\WebGrease.dll
+D:\CV\WebDT\WebDT\bin\CKFinder.pdb
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.Web.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.AI.WindowsServer.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.ApplicationInsights.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CV\WebDT\WebDT\bin\PagedList.xml
+D:\CV\WebDT\WebDT\bin\PagedList.Mvc.xml
+D:\CV\WebDT\WebDT\bin\System.Web.Helpers.xml
+D:\CV\WebDT\WebDT\bin\System.Web.Mvc.xml
+D:\CV\WebDT\WebDT\bin\System.Web.Optimization.xml
+D:\CV\WebDT\WebDT\bin\System.Web.Razor.xml
+D:\CV\WebDT\WebDT\bin\System.Web.WebPages.xml
+D:\CV\WebDT\WebDT\bin\System.Web.WebPages.Deployment.xml
+D:\CV\WebDT\WebDT\bin\System.Web.WebPages.Razor.xml
+D:\CV\WebDT\WebDT\bin\Antlr3.Runtime.pdb
+D:\CV\WebDT\WebDT\bin\Newtonsoft.Json.xml
+D:\CV\WebDT\WebDT\bin\EntityFramework.xml
+D:\CV\WebDT\WebDT\bin\EntityFramework.SqlServer.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Google.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CV\WebDT\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CV\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+D:\CV\WebDT\WebDT\obj\Debug\WebDT.dll
+D:\CV\WebDT\WebDT\obj\Debug\WebDT.pdb
+D:\Do_An_Tong_Hop\DinhDuyLe_1511060534_DoAnCoSo1\WebDT\WebDT\obj\Debug\WebDT.csprojResolveAssemblyReference.cache
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\ApplicationInsights.config
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\csc.exe
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\vbc.exe
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\WebDT.dll.config
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\WebDT.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\WebDT.pdb
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Antlr3.Runtime.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\CKFinder.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.SqlServer.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.Web.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Newtonsoft.Json.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Owin.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\PagedList.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\PagedList.Mvc.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Helpers.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Mvc.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Optimization.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Razor.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\WebGrease.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\CKFinder.pdb
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.Web.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\PagedList.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\PagedList.Mvc.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Helpers.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Mvc.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Optimization.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Razor.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Antlr3.Runtime.pdb
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Newtonsoft.Json.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.SqlServer.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.pdb
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Facebook.dll
+E:\Part time\WebMayTinh\webmaytinh\WebDT\bin\Facebook.xml
+E:\Part time\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.csprojAssemblyReference.cache
+E:\Part time\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\ApplicationInsights.config
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\csc.exe
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\vbc.exe
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\WebDT.dll.config
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\WebDT.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\WebDT.pdb
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Antlr3.Runtime.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\CKFinder.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.SqlServer.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Facebook.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.Web.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Newtonsoft.Json.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Owin.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\PagedList.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\PagedList.Mvc.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Helpers.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Mvc.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Optimization.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Razor.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\WebGrease.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\CKFinder.pdb
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Facebook.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.Web.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\PagedList.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\PagedList.Mvc.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Helpers.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Mvc.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Optimization.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.Razor.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Antlr3.Runtime.pdb
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Newtonsoft.Json.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\EntityFramework.SqlServer.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.dll
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.pdb
+E:\Part time\New Project\WebMayTinh\webmaytinh\WebDT\obj\Debug\WebDT.csprojAssemblyReference.cache
+E:\ASP BTL\webmaytinh\WebDT\bin\ApplicationInsights.config
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\csc.exe
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\vbc.exe
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\ASP BTL\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP BTL\webmaytinh\WebDT\bin\WebDT.dll.config
+E:\ASP BTL\webmaytinh\WebDT\bin\WebDT.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\WebDT.pdb
+E:\ASP BTL\webmaytinh\WebDT\bin\Antlr3.Runtime.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\CKFinder.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\EntityFramework.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\EntityFramework.SqlServer.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Facebook.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.Web.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Newtonsoft.Json.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\Owin.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\PagedList.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\PagedList.Mvc.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Helpers.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Mvc.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Optimization.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Razor.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.WebPages.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\WebGrease.dll
+E:\ASP BTL\webmaytinh\WebDT\bin\CKFinder.pdb
+E:\ASP BTL\webmaytinh\WebDT\bin\Facebook.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.Web.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\PagedList.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\PagedList.Mvc.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Helpers.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Mvc.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Optimization.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.Razor.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.WebPages.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Antlr3.Runtime.pdb
+E:\ASP BTL\webmaytinh\WebDT\bin\Newtonsoft.Json.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\EntityFramework.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\EntityFramework.SqlServer.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ASP BTL\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ASP BTL\webmaytinh\WebDT\obj\Debug\WebDT.csprojAssemblyReference.cache
+E:\ASP BTL\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+E:\ASP BTL\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+E:\ASP BTL\webmaytinh\WebDT\obj\Debug\WebDT.dll
+E:\ASP BTL\webmaytinh\WebDT\obj\Debug\WebDT.pdb
+E:\aa\webmaytinh\WebDT\bin\ApplicationInsights.config
+E:\aa\webmaytinh\WebDT\bin\roslyn\csc.exe
+E:\aa\webmaytinh\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aa\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aa\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aa\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aa\webmaytinh\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aa\webmaytinh\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aa\webmaytinh\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\aa\webmaytinh\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\aa\webmaytinh\WebDT\bin\roslyn\vbc.exe
+E:\aa\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\aa\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\aa\webmaytinh\WebDT\bin\WebDT.dll.config
+E:\aa\webmaytinh\WebDT\bin\WebDT.dll
+E:\aa\webmaytinh\WebDT\bin\WebDT.pdb
+E:\aa\webmaytinh\WebDT\bin\Antlr3.Runtime.dll
+E:\aa\webmaytinh\WebDT\bin\CKFinder.dll
+E:\aa\webmaytinh\WebDT\bin\EntityFramework.dll
+E:\aa\webmaytinh\WebDT\bin\EntityFramework.SqlServer.dll
+E:\aa\webmaytinh\WebDT\bin\Facebook.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.Web.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\aa\webmaytinh\WebDT\bin\Newtonsoft.Json.dll
+E:\aa\webmaytinh\WebDT\bin\Owin.dll
+E:\aa\webmaytinh\WebDT\bin\PagedList.dll
+E:\aa\webmaytinh\WebDT\bin\PagedList.Mvc.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.Helpers.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.Mvc.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.Optimization.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.Razor.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.WebPages.dll
+E:\aa\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\aa\webmaytinh\WebDT\bin\WebGrease.dll
+E:\aa\webmaytinh\WebDT\bin\CKFinder.pdb
+E:\aa\webmaytinh\WebDT\bin\Facebook.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.Web.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aa\webmaytinh\WebDT\bin\PagedList.xml
+E:\aa\webmaytinh\WebDT\bin\PagedList.Mvc.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.Helpers.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.Mvc.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.Optimization.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.Razor.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.WebPages.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\aa\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\aa\webmaytinh\WebDT\bin\Antlr3.Runtime.pdb
+E:\aa\webmaytinh\WebDT\bin\Newtonsoft.Json.xml
+E:\aa\webmaytinh\WebDT\bin\EntityFramework.xml
+E:\aa\webmaytinh\WebDT\bin\EntityFramework.SqlServer.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\aa\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\aa\webmaytinh\WebDT\obj\Debug\WebDT.csprojAssemblyReference.cache
+E:\aa\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+E:\aa\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+E:\aa\webmaytinh\WebDT\obj\Debug\WebDT.dll
+E:\aa\webmaytinh\WebDT\obj\Debug\WebDT.pdb
+E:\asp\webmaytinh\WebDT\bin\roslyn\csc.exe
+E:\asp\webmaytinh\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\asp\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\asp\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\asp\webmaytinh\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\asp\webmaytinh\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\asp\webmaytinh\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\asp\webmaytinh\WebDT\bin\roslyn\System.Collections.Immutable.dll
+E:\asp\webmaytinh\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\asp\webmaytinh\WebDT\bin\roslyn\vbc.exe
+E:\asp\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe
+E:\asp\webmaytinh\WebDT\bin\roslyn\VBCSCompiler.exe.config
+E:\asp\webmaytinh\WebDT\bin\ApplicationInsights.config
+E:\asp\webmaytinh\WebDT\bin\WebDT.dll.config
+E:\asp\webmaytinh\WebDT\bin\WebDT.dll
+E:\asp\webmaytinh\WebDT\bin\WebDT.pdb
+E:\asp\webmaytinh\WebDT\bin\Antlr3.Runtime.dll
+E:\asp\webmaytinh\WebDT\bin\CKFinder.dll
+E:\asp\webmaytinh\WebDT\bin\EntityFramework.dll
+E:\asp\webmaytinh\WebDT\bin\EntityFramework.SqlServer.dll
+E:\asp\webmaytinh\WebDT\bin\Facebook.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.Web.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Web.Infrastructure.dll
+E:\asp\webmaytinh\WebDT\bin\Newtonsoft.Json.dll
+E:\asp\webmaytinh\WebDT\bin\Owin.dll
+E:\asp\webmaytinh\WebDT\bin\PagedList.dll
+E:\asp\webmaytinh\WebDT\bin\PagedList.Mvc.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.Helpers.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.Mvc.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.Optimization.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.Razor.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.WebPages.dll
+E:\asp\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.dll
+E:\asp\webmaytinh\WebDT\bin\WebGrease.dll
+E:\asp\webmaytinh\WebDT\bin\CKFinder.pdb
+E:\asp\webmaytinh\WebDT\bin\Facebook.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.Web.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AI.WindowsServer.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.ApplicationInsights.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\asp\webmaytinh\WebDT\bin\PagedList.xml
+E:\asp\webmaytinh\WebDT\bin\PagedList.Mvc.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.Helpers.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.Mvc.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.Optimization.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.Razor.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.WebPages.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.WebPages.Deployment.xml
+E:\asp\webmaytinh\WebDT\bin\System.Web.WebPages.Razor.xml
+E:\asp\webmaytinh\WebDT\bin\Antlr3.Runtime.pdb
+E:\asp\webmaytinh\WebDT\bin\Newtonsoft.Json.xml
+E:\asp\webmaytinh\WebDT\bin\EntityFramework.xml
+E:\asp\webmaytinh\WebDT\bin\EntityFramework.SqlServer.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Google.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+E:\asp\webmaytinh\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\asp\webmaytinh\WebDT\obj\Debug\WebDT.csprojAssemblyReference.cache
+E:\asp\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+E:\asp\webmaytinh\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+E:\asp\webmaytinh\WebDT\obj\Debug\WebDT.dll
+E:\asp\webmaytinh\WebDT\obj\Debug\WebDT.pdb
+D:\Back.end\webmaytinh1\WebDT\bin\ApplicationInsights.config
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\csc.exe
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\System.Collections.Immutable.dll
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\vbc.exe
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\VBCSCompiler.exe
+D:\Back.end\webmaytinh1\WebDT\bin\roslyn\VBCSCompiler.exe.config
+D:\Back.end\webmaytinh1\WebDT\bin\WebDT.dll.config
+D:\Back.end\webmaytinh1\WebDT\bin\WebDT.dll
+D:\Back.end\webmaytinh1\WebDT\bin\WebDT.pdb
+D:\Back.end\webmaytinh1\WebDT\bin\Antlr3.Runtime.dll
+D:\Back.end\webmaytinh1\WebDT\bin\CKFinder.dll
+D:\Back.end\webmaytinh1\WebDT\bin\EntityFramework.dll
+D:\Back.end\webmaytinh1\WebDT\bin\EntityFramework.SqlServer.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Facebook.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.Web.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.WindowsServer.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.ApplicationInsights.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Google.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Web.Infrastructure.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Newtonsoft.Json.dll
+D:\Back.end\webmaytinh1\WebDT\bin\Owin.dll
+D:\Back.end\webmaytinh1\WebDT\bin\PagedList.dll
+D:\Back.end\webmaytinh1\WebDT\bin\PagedList.Mvc.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Helpers.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Mvc.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Optimization.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Razor.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.WebPages.Deployment.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.WebPages.dll
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.WebPages.Razor.dll
+D:\Back.end\webmaytinh1\WebDT\bin\WebGrease.dll
+D:\Back.end\webmaytinh1\WebDT\bin\CKFinder.pdb
+D:\Back.end\webmaytinh1\WebDT\bin\Facebook.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.Web.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AI.WindowsServer.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.ApplicationInsights.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Back.end\webmaytinh1\WebDT\bin\PagedList.xml
+D:\Back.end\webmaytinh1\WebDT\bin\PagedList.Mvc.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Helpers.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Mvc.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Optimization.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.Razor.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.WebPages.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.WebPages.Deployment.xml
+D:\Back.end\webmaytinh1\WebDT\bin\System.Web.WebPages.Razor.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Antlr3.Runtime.pdb
+D:\Back.end\webmaytinh1\WebDT\bin\Newtonsoft.Json.xml
+D:\Back.end\webmaytinh1\WebDT\bin\EntityFramework.xml
+D:\Back.end\webmaytinh1\WebDT\bin\EntityFramework.SqlServer.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Google.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Back.end\webmaytinh1\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Back.end\webmaytinh1\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+D:\Back.end\webmaytinh1\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+D:\Back.end\webmaytinh1\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+D:\Back.end\webmaytinh1\WebDT\obj\Debug\WebDT.dll
+D:\Back.end\webmaytinh1\WebDT\obj\Debug\WebDT.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\ApplicationInsights.config
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\WebDT.dll.config
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\WebDT.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\WebDT.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\CKFinder.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Facebook.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.Web.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Owin.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\PagedList.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\PagedList.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\WebGrease.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\CKFinder.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Facebook.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.Web.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\PagedList.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\PagedList.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Optimization.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\obj\Debug\WebDT.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\TruongDinhHung_HTTT_2017DHHTTT02\TruongDinhHung_HTTT_2017DHHTTT02\webdienthoai\WebDT\obj\Debug\WebDT.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\ApplicationInsights.config
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.dll.config
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\CKFinder.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Facebook.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Web.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Owin.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebGrease.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\CKFinder.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Facebook.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Web.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Optimization.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.dll
+C:\Users\nguye\OneDrive\Máy tính\BTL+ Hoc phan\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\ApplicationInsights.config
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\csc.exe
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\System.Collections.Immutable.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\vbc.exe
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe.config
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.dll.config
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Antlr3.Runtime.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\CKFinder.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.SqlServer.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Facebook.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Web.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Web.Infrastructure.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Newtonsoft.Json.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Owin.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.Mvc.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Helpers.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Mvc.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Optimization.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Razor.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebGrease.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\CKFinder.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Facebook.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Web.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.Mvc.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Helpers.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Mvc.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Optimization.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Razor.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Antlr3.Runtime.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Newtonsoft.Json.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.SqlServer.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\ApplicationInsights.config
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\csc.exe
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\System.Collections.Immutable.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\vbc.exe
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\roslyn\VBCSCompiler.exe.config
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.dll.config
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebDT.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Antlr3.Runtime.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\CKFinder.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.SqlServer.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Facebook.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Agent.Intercept.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Web.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Web.Infrastructure.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Newtonsoft.Json.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Owin.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.Mvc.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Helpers.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Mvc.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Optimization.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Razor.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\WebGrease.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\CKFinder.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Facebook.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.DependencyCollector.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.Web.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AI.WindowsServer.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.ApplicationInsights.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\PagedList.Mvc.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Helpers.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Mvc.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Optimization.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.Razor.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Deployment.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\System.Web.WebPages.Razor.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Antlr3.Runtime.pdb
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Newtonsoft.Json.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\EntityFramework.SqlServer.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Google.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.AssemblyReference.cache
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CoreCompileInputs.cache
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.csproj.CopyComplete
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.dll
+D:\1. STUDY\TTCN\Work\BTL\BTL-TTCNKTPM\webdienthoai\WebDT\obj\Debug\WebDT.pdb

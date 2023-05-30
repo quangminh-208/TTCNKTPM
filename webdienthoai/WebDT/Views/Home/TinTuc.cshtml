@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Tin Tức";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div class="container">
+    <div class="col-lg-12">
+
+        @{ Html.RenderAction("getTinTuc", "Default");}
+    </div>
+</div>

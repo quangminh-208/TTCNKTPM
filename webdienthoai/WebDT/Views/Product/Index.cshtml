@@ -1,0 +1,166 @@
+﻿@model List<WebDT.Models.EF.Product>
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "Lọc sản phẩm";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    var dtdd = (List<WebDT.Models.EF.Category>)ViewBag.dtdd;
+    var tag = ViewBag.tag;
+}
+
+<div class="taskSearch">
+    <h2> Tìm kiếm sản phẩm</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="manuwrap ">
+                <div class="manunew">
+                    <input type="hidden" id="menuhang" value="0">
+                    @foreach (var item in dtdd)
+                    {
+                        if (tag == "Dưới 2 triệu")
+                        {
+                            <a href="/loc-san-pham?category=@item.id&toprice=0&fromprice=2">
+                                <img src="@item.link">
+                            </a>
+                        }
+                        else if (tag == "Từ 2 - 4 triệu")
+                        {
+                            <a href="/loc-san-pham?category=@item.id&toprice=2&fromprice=4">
+                                <img src="@item.link">
+                            </a>
+                        }
+                        else if (tag == "Từ 4 - 7 triệu")
+                        {
+                            <a href="/loc-san-pham?category=@item.id&toprice=4&fromprice=7">
+                                <img src="@item.link">
+                            </a>
+                        }
+                        else if (tag == "Từ 7 - 13 triệu")
+                        {
+                            <a href="/loc-san-pham?category=@item.id&toprice=7&fromprice=13">
+                                <img src="@item.link">
+                            </a>
+                        }
+                        else if (tag == "Trên 13 triệu")
+                        {
+                            <a href="/loc-san-pham?category=@item.id&toprice=13&fromprice=1300">
+                                <img src="@item.link">
+                            </a>
+                        }
+                        else
+                        {
+                            <a href="/loc-san-pham?category=@item.id">
+                                <img src="@item.link">
+                            </a>
+                        }
+
+                    }
+                    
+                    @*<a href="/loc-san-pham?category=2">
+                        <img src="~/Content/img/Samsung42-b_25.jpg">
+                    </a>
+                    <a href="/loc-san-pham?category=3">
+                        <img src="~/Content/img/OPPO42-b_23.jpg">
+                    </a>
+                    <a href="/loc-san-pham?category=4">
+                        <img src="~/Content/img/Nokia42-b_21.jpg">
+                    </a>*@
+                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+        <div class="row">
+            <ul class="filter">
+                <li class="title">
+                    <a href="javascript:;">Chọn mức giá:</a>
+                </li>
+                <li class="frange">
+                    <a href="/loc-san-pham?toprice=0&fromprice=2">
+                        Dưới 2 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=2&fromprice=4">
+                        Từ 2 - 4 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=4&fromprice=7">
+                        Từ 4 - 7 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=7&fromprice=13">
+                        Từ 7 - 13 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=13&fromprice=1300">
+                        Trên 13 triệu
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--Các thương hiệu-->
+
+<div class="choosedfilter">
+   <div class="col-lg-2" style="width: 164px;"></div>
+    @if (ViewBag.cate != null)
+    {
+        <a href="" style="text-decoration:none">
+            <h2>@ViewBag.cate</h2>
+        </a>
+    }
+    @if (ViewBag.tag != null)
+    {
+        <a href="" style="text-decoration:none">
+            <h2>@ViewBag.tag</h2>
+        </a>
+    }
+    @if (ViewBag.tag != null && ViewBag.cate != null)
+    {
+        <a class="reset" href="/loc-san-pham?fromprice=130">
+            <h2>
+                Xóa tất cả
+            </h2>
+        </a>
+    }
+    
+</div>
+
+<!-- Lọc kết quả-->
+<div class="maincontent-area" id="spmoi">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="latest-product">
+                    @*<h2 class="section-title">Xem Nhanh Sản Phẩm</h2>*@
+                    <div class="product-carousel">
+                        @foreach (var i in Model)
+                        {
+                            if (i.newprice == null)
+                            {
+                                <div class="single-product">
+                                    <div class="product-f-image">
+                                        <img src="~/Content/img/@i.img" alt="">
+                                        <div class="product-hover">
+                                            <a href="/them-gio-hang?productId=@i.id&quantity=1" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Thêm vào giỏ</a>
+                                            <a href="/san-pham/@i.meta/@i.id" class="view-details-link"><i class="fa fa-link"></i> Thông tin</a>
+                                        </div>
+                                    </div>
+                                    <h2><a href="/san-pham/@i.meta/@i.id">@i.name</a></h2>
+                                    <div class="product-carousel-price">
+
+
+                                        @if (i.newprice == null)
+                                        {
+                                            <ins> @string.Format("{0:0,0đ}", i.price)   </ins>
+                                        }
+
+
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

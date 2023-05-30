@@ -1,0 +1,126 @@
+﻿
+@{
+    ViewBag.Title = "Trang Chủ";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    var getchinhchieu = ViewBag.getHinhChieu as List<WebDT.Models.EF.Slide>;
+}
+<div class="slider-area">
+    <!-- Slider -->
+    <div class="block-slider block-slider4">
+        <ul class="" id="bxslider-home4">
+            @foreach (var i in getchinhchieu)
+            {
+                <li>
+                    <img src="~/Content/img/@i.img" alt="Slide">
+                </li>
+            }
+        </ul>
+    </div>
+
+    <!-- ./Slider -->
+</div>
+
+@*<div class="promo-area">
+        <div class="zigzag-bottom"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-promo promo1">
+                        <i class="fa fa-refresh"></i>
+                        <p>Đổi hàng 30 ngày</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-promo promo2">
+                        <i class="fa fa-truck"></i>
+                        <p>Miễn phí vận chuyển</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-promo promo3">
+                        <i class="fa fa-lock"></i>
+                        <p>Thanh toán an toàn</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6" >
+                    <div class="single-promo promo4">
+                        <i class="fa fa-gift" ></i>
+                        <p>Sản phẩm mới</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+<div class="taskSearch">
+    <h2> Tìm kiếm sản phẩm</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="manuwrap ">
+                <div class="manunew">
+                    <input type="hidden" id="menuhang" value="0">
+                    <a href="/loc-san-pham?category=1">
+                        <img src="~/Content/img/iPhone-(Apple)42-b_16.jpg">
+                    </a>
+                    <a href="/loc-san-pham?category=2">
+                        <img src="~/Content/img/Samsung42-b_25.jpg">
+                    </a>
+                    <a href="/loc-san-pham?category=3">
+                        <img src="~/Content/img/OPPO42-b_23.jpg">
+                    </a>
+                    <a href="/loc-san-pham?category=4">
+                        <img src="~/Content/img/Nokia42-b_21.jpg">
+                    </a>
+                </div>
+                <div class="clr"></div>
+            </div>
+        </div>
+        <div class="row">
+            <ul class="filter">
+                <li class="title">
+                    <a href="javascript:;">Chọn mức giá:</a>
+                </li>
+                <li class="frange">
+                    <a href="/loc-san-pham?toprice=0&fromprice=2">
+                        Dưới 2 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=2&fromprice=4">
+                        Từ 2 - 4 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=4&fromprice=7">
+                        Từ 4 - 7 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=7&fromprice=13">
+                        Từ 7 - 13 triệu
+                    </a>
+                    <a href="/loc-san-pham?toprice=13&fromprice=1300">
+                        Trên 13 triệu
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+@{Html.RenderAction("newProduct", "Home");}
+<!--Các Sản phẩm mới -->
+@{Html.RenderAction("getXemNhanhSP", "Default");}
+<!--Các Sản khuyến mãi -->
+@{ Html.RenderAction("getThuongHieu", "Default");}
+<div class="product-widget-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <!--    -->
+
+            @{ Html.RenderAction("getSPMoi", "Default");}
+            @{ Html.RenderAction("Index", "SanPhamBanChayNhat");}
+            @{ Html.RenderAction("getKhuyenMai", "Default");}
+        </div>
+    </div>
+</div>
+@section jsFooter{
+    <script type="text/javascript">
+
+    </script>
+}

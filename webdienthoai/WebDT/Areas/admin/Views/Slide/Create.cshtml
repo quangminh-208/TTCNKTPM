@@ -1,0 +1,67 @@
+﻿@model WebDT.Models.HinhChieu
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/admin/Views/Shared/_Mylayout.cshtml";
+}
+<br />
+<div class="table table-striped table-bordered table-hover" id="dataTables-example" style="width:100%">
+    <br />
+    <h2 style="margin-left:40%">Thông tin cần thêm</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4></h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group" style="width:100%">
+                @Html.Label("Hình ảnh", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="file" name="img" id="img" accept=".jpg,.png,.gif,.jpeg,.bmp" />
+                    @Html.ValidationMessageFor(model => model.img, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group" style="width:100%">
+                @Html.LabelFor(model => model.meta, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.meta, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.meta, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" style="width:100%">
+                @Html.LabelFor(model => model.hide, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <div class="checkbox">
+                        @Html.EditorFor(model => model.hide)
+                        @Html.ValidationMessageFor(model => model.hide, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group" style="width:100%">
+                @Html.Label("Thứ tự", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.order, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.order, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            
+            <div class="form-group" style="width:100%">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Lưu lại" class="btn btn-default" />
+                    
+                </div>
+            </div>
+        </div>
+    }
+
+    <div style="margin-left:20px">
+        @Html.ActionLink("Trở lại danh sách", "Index")
+    </div >
+    <br />
+</div>

@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewBag.Title = "Doanh thu hàng tháng";
+    Layout = "~/Areas/admin/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+               Doanh thu bán hàng theo từng tháng
+            </div>
+            <!--/.panel-heading-->
+            <div class="panel-body">
+
+                <div id="SaleChart"></div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section _Footer
+{
+    <!-- DataTables JavaScript -->
+    <script src="~/Areas/admin/Content/vendor/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="~/Areas/admin/Content/vendor/datatables-plugins/dataTables.bootstrap.min.js"></script>
+    <script src="~/Areas/admin/Content/vendor/datatables-responsive/dataTables.responsive.js"></script>
+    <!-- Page-Level Demo Scripts - Tables - Use for reference -->
+    <script>
+            $(document).ready(function () {
+                $('#dataTables-example').DataTable({
+                    responsive: true
+                });
+            });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.ajax({
+                type: 'GET',
+                url: '/HoaDon/TotalSale',
+                data: {},
+                contentType: "application/json;charset=utf-8",
+                dataType: 'json',
+                success: function (res) {
+                    successFunc(res);
+                    console.log(res);
+                },
+                error: function (errormessage) {
+                    alert("error");
+                    console.log(errormessage.responseText);
+                }
+            });
+        });
+
+        function formatNumber(num) {
+            return num.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1.")
+        }
+
+        function successFunc(jsondata) {
+
+            var month = ['x'];
+            var Total = ['total'];
+           
+            jsondata.forEach(function (e) {
+                //e.total = formatNumber(e.total);
+                Total.push(e.total);
+                month.push(e.month);
+            })
+            console.log(month);
+            console.log(Total);
+
+            var chart = c3.generate({
+                bindto: '#SaleChart',
+                data: {
+                    x: 'x',
+                    columns: [
+                            month,
+                            Total
+                    ],
+                    type: 'bar',
+                },
+                axis: {
+                    x: {
+                        type: 'category', // this needed to load string x value
+                        label: {
+                            text: 'Biểu đồ doanh thu theo từng tháng bán hàng',
+                            position: 'outer-center'
+                        }
+
+                    }
+                },
+                color: {
+                    Total: '#ff0000'
+                },
+                labels: true
+            });
+
+            chart.data.names(
+                {
+                    total: 'Tổng doanh thu cả tháng (VNĐ)'
+                });
+        }
+    </script>
+}
+

@@ -1,0 +1,341 @@
+﻿@model WebDT.Models.EF.Product
+
+@{
+    ViewBag.Title = "Thông tin sản phẩm";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    var dexuat = (List<WebDT.Models.EF.Product>)ViewBag.dexuat;
+    var daxem = (List<WebDT.Models.EF.Product>)Session["ProductSeen"];
+    var lstReview = ViewBag.lstReview as List<WebDT.Models.EF.Review>;
+}
+
+@Styles.Render("~/css/detail")
+@Scripts.Render("~/js/detail")
+
+
+<div class="single-product-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+
+
+                <div class="single-sidebar">
+                    <h2 class="sidebar-title">Điện thoại cùng loại</h2>
+
+                    @Html.Action("sanphamcungloai", "Product", new { id = @Model.categoryid })
+
+
+                </div>
+
+
+            </div>
+
+            <div class="col-md-8">
+                <div class="product-content-right">
+                    <div class="product-breadcroumb">
+                        @Html.ActionLink("Trang chủ", "Index", "Default")
+                        <a href="">@Model.name</a>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="product-images">
+                                <div class="product-main-img">
+                                    <img src="~/Content/img/@Model.img" alt="">
+                                </div>
+
+                                <div class="product-gallery">
+                                    <img src="img/product-thumb-1.jpg" alt="">
+                                    <img src="img/product-thumb-2.jpg" alt="">
+                                    <img src="img/product-thumb-3.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="product-inner">
+                                <h2 class="product-name">@Model.name</h2>
+                                <div class="product-inner-price">
+                                    @if (Model.newprice != null)
+                                    {<ins>@string.Format("{0:0,0 VNĐ}", Model.newprice)</ins>
+                                    <del>@string.Format("{0:0,0 VNĐ}", Model.price)</del> }
+                                else
+                                {
+                                    <ins>@string.Format("{0:0,0 VNĐ}", Model.price)</ins>
+                                }
+                                </div>
+
+                                <form action="/them-gio-hang?productId=@Model.id&quantity=1" class="#">
+                                    @*<div class="quantity">
+                                        <input style="height:35px" type="number" size="4" class="input-text qty text" title="Qty" value="1" name="quantity" min="1" step="1">
+                                    </div>*@
+
+                                    <a class="add_to_cart_button" style="padding:8px" data-quantity="1" data-product_sku="" data-product_id="70" rel="nofollow" href="/them-gio-hang?productId=@Model.id&quantity=1">Thêm vào Giỏ</a>
+                                    <a href="/mua-ngay/@Model.id" class="btn btn-warning" style="padding:8px">Mua ngay</a>
+                                </form>
+
+                                <div class="product-inner-category" style="margin-top:15px">
+                                    <p>Thể loại: <a href="#">@Model.name</a></p>
+                                </div>
+
+                                <div role="tabpanel">
+                                    <ul class="product-tab" role="tablist">
+                                        <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Miêu tả chi tiết</a></li>
+                                        <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Đánh giá</a></li>
+                                    </ul>
+                                    <div class="tab-content">
+                                        <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                            <h2>Chi tiết sản phẩm</h2>
+                                            <p>@Html.Raw(Model.description)</p>
+                                        </div>
+                                        <div role="tabpanel" class="tab-pane fade" id="profile">
+                                            <h2>Đánh giá sản phẩm</h2>
+                                            <div class="submit-review">
+                                                <p><label for="name">Họ Tên</label> <input name="name" type="text"></p>
+                                                <p><label for="email">Email</label> <input name="email" type="email"></p>
+                                                <div class="rating-chooser">
+                                                    <p>Xếp hạng</p>
+
+                                                    <div class="rating-wrap-post">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                    </div>
+                                                </div>
+                                                <p><label for="review">Đánh giá của bạn</label> <textarea name="review" id="" cols="30" rows="10"></textarea></p>
+                                                <p><input type="submit" value="Gửi"></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="product-images">
+                            <div class="product-main-img">
+                                <img src="img/product-2.jpg" alt="">
+                            </div>
+
+                            <div class="product-gallery">
+                                <img src="img/product-thumb-1.jpg" alt="">
+                                <img src="img/product-thumb-2.jpg" alt="">
+                                <img src="img/product-thumb-3.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-9">
+                <div class="related-products-wrapper">
+                    <h2 class="related-products-title">Đề xuất</h2>
+                    <div class="related-products-carousel">
+                        @foreach (var item in dexuat)
+                        {
+                            <div class="single-product">
+                                <div class="product-f-image">
+                                    <img src="~/Content/img/@item.img" alt="">
+                                    <div class="product-hover">
+                                        <a href="/them-gio-hang?productId=@item.id&quantity=1" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</a>
+                                        <a href="/san-pham/@item.meta/@item.id" class="view-details-link"><i class="fa fa-link"></i>Thông tin</a>
+                                    </div>
+                                </div>
+
+                                <h2><a href="/san-pham/@item.meta/@item.id">@item.name</a></h2>
+
+                                <div class="product-carousel-price">
+                                    @if (item.newprice != null)
+                                    {<ins>@string.Format("{0:0,0 VNĐ}", item.newprice)</ins>
+                                    <del>@string.Format("{0:0,0 VNĐ}", item.price)</del> }
+                                else
+                                {
+                                    <ins>@string.Format("{0:0,0 VNĐ}", item.price)</ins>
+                                }
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        @if (daxem != null)
+        {
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="related-products-wrapper">
+                        <h2 class="related-products-title">Sản phẩm đã xem</h2>
+                        <div class="related-products-carousel">
+                            @foreach (var item in daxem)
+                            {
+                                <div class="single-product">
+                                    <div class="product-f-image">
+                                        <img src="~/Content/img/@item.img" alt="">
+                                        <div class="product-hover">
+                                            <a href="/them-gio-hang?productId=@item.id&quantity=1" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</a>
+                                            <a href="/san-pham/@item.meta/@item.id" class="view-details-link"><i class="fa fa-link"></i>Thông tin</a>
+                                        </div>
+                                    </div>
+
+                                    <h2><a href="/san-pham/@item.meta/@item.id">@item.name</a></h2>
+
+                                    <div class="product-carousel-price">
+                                        @if (item.newprice != null)
+                                        {<ins>@string.Format("{0:0,0 VNĐ}", item.newprice)</ins>
+                                        <del>@string.Format("{0:0,0 VNĐ}", item.price)</del> }
+                                    else
+                                    {
+                                        <ins>@string.Format("{0:0,0 VNĐ}", item.price)</ins>
+                                    }
+                                    </div>
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        }
+
+        <div class="row" id="reviews">
+            <h2 class="related-products-title">@lstReview.Count đánh giá</h2>
+
+
+
+            @if (lstReview.Count == 0)
+            {
+                <div class="col-md-12">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
+                        <h1>Sản phẩm chưa có đánh giá</h1>
+                    </div>
+                </div>
+            }
+            else
+            {
+                foreach (var item in lstReview)
+                {
+                    <div class="col-md-12 review" style="margin-bottom: 20px; border-bottom: 1px solid #D8D8D8;">
+                        <ul>
+                            <li><a href=""><i class="fa fa-user"></i>@item.User.name</a></li>
+                            <li><a href=""><i class="fa fa-clock-o"></i>@item.CreatedDate.Value.ToString("hh:mm tt")</a></li>
+                            <li><a href=""><i class="fa fa-calendar-o"></i>@item.CreatedDate.Value.ToString("dd-MM-yyyy")</a></li>
+                        </ul>
+                        <div class="row">
+                            <div class="col-xs-5" style="color: gold; font-size:5px">
+                                <input type="hidden" value="@item.Rating" class="rating" data-filled="fa fa-star fa-3x" data-empty="fa fa-star-o fa-3x" data-start="5" data-stop="10" disabled />
+                            </div>
+                        </div>
+                        <div class="review-content">
+                            <p>
+                                @item.Content
+                            </p>
+                        </div>
+
+                    </div>
+                }
+            }
+
+            @if (Session["UserID"] != null)
+            {
+                <div class="col-sm-12">
+
+                    <form action="#">
+                        <div class="row">
+                            <h5 style="margin-left: 15px;">Điểm đánh giá: </h5>
+                            <div class="col-xs-5" style="color: gold;">
+                                <input type="hidden" id="point_review" class="rating" data-filled="fa fa-star fa-3x" data-empty="fa fa-star-o fa-3x" data-start="5" data-stop="10" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <h5 style="margin-left: 15px;">Đánh giá của bạn: </h5>
+                        </div>
+                        <textarea name="" placeholder="Nhập đánh giá của bạn..." id="text_review"></textarea>
+                        <button type="button" class="btn btn-default pull-right" id="btn-review" data-userid="@Session["UserID"]">
+                            Gửi đánh giá
+                        </button>
+                    </form>
+
+                </div>
+            }
+            else
+            {
+                <div class="col-md-12">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-8">
+                        <p>Bạn vui lòng đăng nhập để đánh giá sản phẩm</p>
+                    </div>
+                    <div class="col-md-4"></div>
+                    <div class="col-md-8">
+                        <a href="/dang-nhap" class="btn btn-success btn-lg">Đăng nhập</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+</div>
+</div>
+
+@section jsFooter{
+    <script src="~/Scripts/Controller/rating.js"></script>
+
+    <script>
+        $('.rating').on('change', function () {
+            // $(this).next('.label').text($(this).val());
+            // alert($(this).val());
+            $('#point_review').val($(this).val());
+        });
+        $(document).ready(function () {
+            $("#btn-review").click(function () {
+            var danhnhap_id = $(this).data('userid');
+            var product_id = @Model.id;
+            var content = $('#text_review').val();
+            var rating = $('#point_review').val();
+
+                var json_review = [];
+                json_review.push({
+                    Content: content,
+                    Rating: rating,
+                    User_id: danhnhap_id,
+                    Product_id: product_id
+                });
+
+                console.log(json_review);
+            $.ajax({
+                url: '/Product/addReview',
+                data: { json_review: JSON.stringify(json_review) },
+                type: 'POST',
+                dataType: 'json',
+                success: function (res) {
+                    if (res.status == true) {
+                        window.location.href = "/san-pham/" + "@Model.meta" + "/" + @Model.id;
+                        PNotify.success({
+                            title: 'THÔNG BÁO!!',
+                            text: 'Đánh giá sản phẩm thành công.'
+                        });
+                    } else {
+                            PNotify.error({
+                            title: 'THÔNG BÁO!!',
+                            text: 'Đã có lỗi xảy ra, bạn vui lòng đánh giá sản phẩm vào thời gian tới.'
+                        });
+                    }
+
+
+                }
+            });
+            });
+        });
+    </script>
+}
